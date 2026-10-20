@@ -5,9 +5,9 @@
 </div>
 
 ```
-Name of Quantlet: Hierarchical Loan forecasting : A study of End-to-End coherent models
+Name of Quantlet: Hierarchical Loan forecasting - Animation origination and bad loans
 
-Published in: Hierarchical Loan forecasting - Animation origination and bad loans
+Published in: Hierarchical Loan forecasting : A study of End-to-End coherent models
 
 Description: Animation of the 12 months loan origination and bad loan amounts by Italian region
 
