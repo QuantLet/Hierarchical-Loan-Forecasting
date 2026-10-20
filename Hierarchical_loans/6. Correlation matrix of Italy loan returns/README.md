@@ -5,9 +5,9 @@
 </div>
 
 ```
-Name of Quantlet: Hierarchical Loan forecasting
+Name of Quantlet: Hierarchical Loan forecasting - Correlation matrices
 
-Published in: Hierarchical Loan forecasting - Correlation matrices
+Published in: Hierarchical Loan forecasting : A study of End-to-End coherent models
 
 Description: Correlation matrices of the log returns of loan originations, organised by sectors and regions
 
