@@ -5,9 +5,9 @@
 </div>
 
 ```
-Name of Quantlet: Hierarchical Loan forecasting : A study of End-to-End coherent models
+Name of Quantlet: Hierarchical Loan forecasting - highlight time series by region
 
-Published in: Hierarchical Loan forecasting - highlight time series by region
+Published in: Hierarchical Loan forecasting : A study of End-to-End coherent models
 
 Description: Plots the loan origination time series per region in Italy
 
