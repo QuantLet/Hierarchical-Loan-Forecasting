@@ -5,9 +5,9 @@
 </div>
 
 ```
-Name of Quantlet: Hierarchical Loan forecasting
+Name of Quantlet: Hierarchical Loan forecasting - PROFHIT model
 
-Published in: Hierarchical Loan forecasting - PROFHIT model
+Published in: Hierarchical Loan forecasting : A study of End-to-End coherent models
 
 Description: Plots model evaluation of the PROFHIT end-to-end method for hierarchical time series
 
