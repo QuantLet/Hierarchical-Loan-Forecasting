@@ -5,9 +5,9 @@
 </div>
 
 ```
-Name of Quantlet: Hierarchical Loan forecasting : A study of End-to-End coherent models
+Name of Quantlet: Hierarchical Loan forecasting - Forecast inconsistency
 
-Published in: Hierarchical Loan forecasting - Forecast inconsistency
+Published in: Hierarchical Loan forecasting : A study of End-to-End coherent models
 
 Description: Plots the forecast inconsistency based on the chosen hierarchical reconciliation in Italy loan origination forecasting
 
