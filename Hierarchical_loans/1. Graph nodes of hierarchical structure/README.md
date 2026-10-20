@@ -5,9 +5,9 @@
 </div>
 
 ```
-Name of Quantlet: Hierarchical Loan forecasting : A study of End-to-End coherent models
+Name of Quantlet: Hierarchical Loan forecasting - Graphs of hierarchical structure
 
-Published in: Hierarchical Loan forecasting - Graphs of hierarchical structure
+Published in: Hierarchical Loan forecasting : A study of End-to-End coherent models
 
 Description: Plots the graphs of the hierarchical time series structures, italian loan origination dataset.
 
