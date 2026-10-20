@@ -5,9 +5,9 @@
 </div>
 
 ```
-Name of Quantlet: Hierarchical Loan forecasting : A study of End-to-End coherent models
+Name of Quantlet: Hierarchical Loan forecasting - QQplots of log-returns
 
-Published in: Hierarchical Loan forecasting - QQplots of log-returns
+Published in: Hierarchical Loan forecasting : A study of End-to-End coherent models
 
 Description: Example of Quantile-Quantile plots of hierarchically linked time series of italian loan originations
 
