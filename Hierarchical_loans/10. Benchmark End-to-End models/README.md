@@ -5,9 +5,9 @@
 </div>
 
 ```
-Name of Quantlet: Hierarchical Loan forecasting
+Name of Quantlet: Hierarchical Loan forecasting - Benchmarks
 
-Published in: Hierarchical Loan forecasting - Benchmarks
+Published in: Hierarchical Loan forecasting : A study of End-to-End coherent models
 
 Description: Plots of the benchmarking of end-to-end forecasting models against reconciled and non-reconciled ARIMA and NN models (NBEATS/NHITS)
 
